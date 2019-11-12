@@ -1,5 +1,9 @@
 # CreatorAndroid
-cocoscreator嵌入Android原生源码 下面是creator嵌入android的具体步骤。但是没有截图 我再上传一个work文档。
+cocoscreator嵌入Android原生源码 下面是creator嵌入android的具体步骤。但是没有截图 我再上传一个word文档。
+
+cocoscreator嵌入原生Android.docx 
+
+
 
 1、编译cocoscreator 
 cd    工程/build/jsb-link   &&   cocos compile -p android -m debug 
