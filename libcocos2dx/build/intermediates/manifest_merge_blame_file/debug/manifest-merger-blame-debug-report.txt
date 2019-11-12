@@ -1,0 +1,12 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.cocos2dx.lib"
+4    android:versionCode="1"
+5    android:versionName="1.0" > <!-- <uses-sdk android:minSdkVersion="9"/> -->
+6    <uses-sdk
+7        android:minSdkVersion="16"
+7-->/Users/wangjunwei/Desktop/CreatorAndroid/libcocos2dx/src/main/AndroidManifest.xml
+8        android:targetSdkVersion="29" />
+8-->/Users/wangjunwei/Desktop/CreatorAndroid/libcocos2dx/src/main/AndroidManifest.xml
+9
+10</manifest>

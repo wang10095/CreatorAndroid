@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "perspective_walls",
+  "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<tileset name=\"perspective_walls\" tilewidth=\"64\" tileheight=\"64\">\n <tileoffset x=\"-32\" y=\"0\"/>\n <image source=\"perspective_walls.png\"/>\n <tile id=\"13\">\n  <properties>\n   <property name=\"door\" value=\"true\"/>\n  </properties>\n </tile>\n <tile id=\"14\">\n  <properties>\n   <property name=\"door\" value=\"true\"/>\n  </properties>\n </tile>\n <tile id=\"15\">\n  <properties>\n   <property name=\"pickup\" value=\"true\"/>\n  </properties>\n </tile>\n</tileset>\n"
+}
