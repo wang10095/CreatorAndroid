@@ -74,4 +74,16 @@ public class GameActivity extends Cocos2dxActivity {
     }
 
 
+    public static void hideCocosGame(){
+        Log.d("cocos","=====hideCocosGame=======");
+    }
+
+    public static void showCocosGame(){
+
+    }
+
+    public static void exitCocosGame(){
+
+    }
+
 }
