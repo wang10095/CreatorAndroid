@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "team_failure",
+    "texture": "1ewRM7a8hPIIcyTBMcqwJu",
+    "rect": [
+      0,
+      2,
+      351,
+      368
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      351,
+      370
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

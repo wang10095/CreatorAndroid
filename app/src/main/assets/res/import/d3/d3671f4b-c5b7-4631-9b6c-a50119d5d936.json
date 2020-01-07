@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "task_success",
+    "texture": "f874tkgGBKnoIACI1y7MXV",
+    "rect": [
+      0,
+      0,
+      443,
+      229
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      443,
+      230
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

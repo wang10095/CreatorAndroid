@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "card_monv_B",
+    "texture": "5d7hw8VDdE+KCMYRoomPQQ",
+    "rect": [
+      1,
+      0,
+      396,
+      472
+    ],
+    "offset": [
+      0.5,
+      1
+    ],
+    "originalSize": [
+      397,
+      474
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

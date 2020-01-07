@@ -1,0 +1,728 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_07",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        200,
+        200,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_16",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        0,
+        600,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_03",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        400,
+        0,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "task.plist",
+    "_spriteFrames": {
+      "task_01": {
+        "__uuid__": "b8JBI3oatBXKruzruK5ZXJ"
+      },
+      "task_02": {
+        "__uuid__": "d5B8HeD0NCfq3ghYwvWVu7"
+      },
+      "task_03": {
+        "__uuid__": "20ydNU9CpNvZcuQ61yGjbf"
+      },
+      "task_04": {
+        "__uuid__": "b8ryx7mjNBuI+kVaBIy/mT"
+      },
+      "task_05": {
+        "__uuid__": "3fI5N0uZRAW6n/+wDEh2qQ"
+      },
+      "task_06": {
+        "__uuid__": "b1XaoZx0lLZZoahAOslGvk"
+      },
+      "task_07": {
+        "__uuid__": "09NKR+FPNPBrQcZN8WUdj9"
+      },
+      "task_08": {
+        "__uuid__": "b4YMbZEe9Gh4QR78b8khNl"
+      },
+      "task_09": {
+        "__uuid__": "3epUqrL19GApNUHBpk63qY"
+      },
+      "task_10": {
+        "__uuid__": "dbwCKXJYBP3JP9rhlyhgQe"
+      },
+      "task_11": {
+        "__uuid__": "2f3Bfk5thLwZg9X0Z67QM7"
+      },
+      "task_12": {
+        "__uuid__": "a3vlm9RdpNfoIyj3Jd9heY"
+      },
+      "task_13": {
+        "__uuid__": "e7NWMGBN1Abbm6ugVJYQ73"
+      },
+      "task_14": {
+        "__uuid__": "93lLq9bZ1JOr299JNzz4/o"
+      },
+      "task_15": {
+        "__uuid__": "8akePSskpMWJOP3ip1TlHr"
+      },
+      "task_16": {
+        "__uuid__": "15e3JG29xFHIoDk7KOQfjn"
+      },
+      "task_17": {
+        "__uuid__": "e49lCI77hG1b3xpne16Pcf"
+      },
+      "task_18": {
+        "__uuid__": "90neWg9D5PC7BM4WSfF784"
+      },
+      "task_19": {
+        "__uuid__": "5d9ztNuQBNBKVA2H4H6HJ5"
+      },
+      "task_20": {
+        "__uuid__": "6dc7+XxIdMnJs7Yc2o1JBm"
+      },
+      "task_21": {
+        "__uuid__": "dfBNby/4ZM+7uWSg8/I/Hq"
+      },
+      "task_22": {
+        "__uuid__": "bfiGUFqMNDHpdUP0PVzhgM"
+      },
+      "task_23": {
+        "__uuid__": "60D7D3wv1AZ6a/Fo6xzVuY"
+      },
+      "task_24": {
+        "__uuid__": "296nnmk1VOuJKDPiG8n/WZ"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_24",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        600,
+        800,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_11",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        0,
+        400,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_09",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        600,
+        200,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_05",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        800,
+        0,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_19",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        600,
+        600,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_23",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        400,
+        800,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_20",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        800,
+        600,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_15",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        800,
+        400,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_18",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        400,
+        600,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_14",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        600,
+        400,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_12",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        200,
+        400,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_06",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        0,
+        200,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_08",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        400,
+        200,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_01",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_04",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        600,
+        0,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_22",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        200,
+        800,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_02",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        200,
+        0,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_10",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        800,
+        200,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_21",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        0,
+        800,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_17",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        200,
+        600,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "task_13",
+      "texture": "dcvwp1r39MhKkvZfg1GZfE",
+      "rect": [
+        400,
+        400,
+        200,
+        200
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        200
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_regular",
+    "texture": "bau0HBx/ZIqbzd6n++/woW",
+    "rect": [
+      0,
+      0,
+      446,
+      276
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      448,
+      276
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -40,6 +40,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.res.Configuration;
 import android.util.Log;
+import android.view.View;
 
 public class GameActivity extends Cocos2dxActivity {
     private static GameActivity app = null;
@@ -51,31 +52,42 @@ public class GameActivity extends Cocos2dxActivity {
 
     public static void showAlertDialog(final String title,final String message) {
         // Here be sure to use runOnUiThread
-        app.runOnUiThread(new Runnable() {
-            @Override
-            public void run() {
-                Builder builder = new AlertDialog.Builder(app);
-                builder.setTitle(title);
-                builder.setMessage(message);
-                builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
-                    public void onClick(DialogInterface dialog, int which) {
-                        app.runOnGLThread(new Runnable() {
-                            @Override
-                            public void run() {
-                                Cocos2dxJavascriptJavaBridge.evalString("cc.TestNativeCallJS()");
-                            }
-                        });
-                    }
-                });
-                AlertDialog alertDialog = builder.create();
-                alertDialog.show();
-            }
-        });
+//        app.runOnUiThread(new Runnable() {
+//            @Override
+//            public void run() {
+//                Builder builder = new AlertDialog.Builder(app);
+//                builder.setTitle(title);
+//                builder.setMessage(message);
+//                builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+//                    public void onClick(DialogInterface dialog, int which) {
+//                        app.runOnGLThread(new Runnable() {
+//                            @Override
+//                            public void run() {
+//                                Cocos2dxJavascriptJavaBridge.evalString("cc.TestNativeCallJS()");
+//                            }
+//                        });
+//                    }
+//                });
+//                AlertDialog alertDialog = builder.create();
+//                alertDialog.show();
+//            }
+//        });
+
+//        startAWL();
+//        GameActivity GameActivity = new GameActivity();
+        app.backMainActivity();
+    }
+
+    private  void backMainActivity(){
+        Log.d("cocos","=====startMainAWL=======");
+        Intent intent = new Intent(app,MainActivity.class);
+        startActivity(intent);
     }
 
 
     public static void hideCocosGame(){
-        Log.d("cocos","=====hideCocosGame=======");
+
+
     }
 
     public static void showCocosGame(){
@@ -85,5 +97,7 @@ public class GameActivity extends Cocos2dxActivity {
     public static void exitCocosGame(){
 
     }
+
+
 
 }

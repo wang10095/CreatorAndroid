@@ -22,11 +22,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btnAwalong = findViewById(R.id.btn_awl);
         //设置点击监听
         btnAwalong.setOnClickListener(this);
-
-    }
-
-    public void GotoGameActivity(View view){
-
     }
 
     @Override
@@ -37,10 +32,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             //如果该组件的ID为阿瓦隆按钮的ID，则启动阿瓦隆
             startAWL();
         }
-
-
     }
-
 
     /**
      * 启动阿瓦隆
@@ -48,5 +40,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void startAWL(){
         Intent intent = new Intent(MainActivity.this,GameActivity.class);
         startActivity(intent);
+
+        GameActivity.hideCocosGame();
     }
 }

@@ -1,0 +1,155 @@
+[
+  {
+    "__type__": "cc.LabelAtlas",
+    "_name": "ArtFont2",
+    "spriteFrame": {
+      "__uuid__": "ffB1+qlepAnoKkra/QhTp2"
+    },
+    "fontSize": 39.6,
+    "_fntConfig": {
+      "commonHeight": 45,
+      "fontSize": 39,
+      "atlasName": "ArtPng2",
+      "fontDefDictionary": {
+        "48": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 36,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 36
+        },
+        "49": {
+          "rect": {
+            "x": 36,
+            "y": 0,
+            "width": 36,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 36
+        },
+        "50": {
+          "rect": {
+            "x": 72,
+            "y": 0,
+            "width": 36,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 36
+        },
+        "51": {
+          "rect": {
+            "x": 108,
+            "y": 0,
+            "width": 36,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 36
+        },
+        "52": {
+          "rect": {
+            "x": 144,
+            "y": 0,
+            "width": 36,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 36
+        },
+        "53": {
+          "rect": {
+            "x": 180,
+            "y": 0,
+            "width": 36,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 36
+        },
+        "54": {
+          "rect": {
+            "x": 216,
+            "y": 0,
+            "width": 36,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 36
+        },
+        "55": {
+          "rect": {
+            "x": 252,
+            "y": 0,
+            "width": 36,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 36
+        },
+        "56": {
+          "rect": {
+            "x": 288,
+            "y": 0,
+            "width": 36,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 36
+        },
+        "57": {
+          "rect": {
+            "x": 324,
+            "y": 0,
+            "width": 36,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 36
+        }
+      },
+      "kerningDict": {}
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ArtPng2",
+      "texture": "a6q7El3EZKXKZVR9fa58m5",
+      "rect": [
+        0,
+        0,
+        360,
+        45
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        360,
+        45
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

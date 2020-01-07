@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "team_success",
+    "texture": "77pqDvnnFAM54cQ2aDUs3P",
+    "rect": [
+      0,
+      4,
+      350,
+      323
+    ],
+    "offset": [
+      -1,
+      -1.5
+    ],
+    "originalSize": [
+      352,
+      328
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

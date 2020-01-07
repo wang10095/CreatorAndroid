@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "card_heilaoda_A",
+    "texture": "bfFFb8TvpIpIOzcwCsZ6kl",
+    "rect": [
+      0,
+      0,
+      128,
+      175
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      175
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

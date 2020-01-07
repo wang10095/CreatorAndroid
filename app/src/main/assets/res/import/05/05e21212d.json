@@ -1,0 +1,207 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tip",
+      "texture": "bekFFMxsdDL7lgrQvHCbrt",
+      "rect": [
+        0,
+        0,
+        750,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        750,
+        62
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "tip",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "tip",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 4
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "7b204c8JlxJva7Ngd4PxKYJ",
+          "node": {
+            "__id__": 1
+          },
+          "bg": {
+            "__id__": 3
+          },
+          "lab": {
+            "__id__": 5
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "acfU+V0hhHzKjRbFu6jdqD"
+        },
+        "fileId": "f7ij/cDiNKb5B0o8QpM/R5"
+      },
+      "_trs": {
+        "__type__": "TypedArray",
+        "ctor": "Float32Array",
+        "array": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "bg",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__id__": 3
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "acfU+V0hhHzKjRbFu6jdqD"
+        },
+        "fileId": "70DyQ3jIVHRYJGBLtpnxPK"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 750,
+        "height": 62
+      },
+      "_trs": {
+        "__type__": "TypedArray",
+        "ctor": "Float32Array",
+        "array": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "__type__": "cc.Sprite",
+      "node": {
+        "__id__": 2
+      },
+      "_materials": [
+        {
+          "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+        }
+      ],
+      "_spriteFrame": {
+        "__uuid__": "53NpVhR/ZDoqO3bEBJ6YjC"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "lab",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__id__": 5
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "acfU+V0hhHzKjRbFu6jdqD"
+        },
+        "fileId": "78IugWeZBIu7EfH6aUiChv"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 390,
+        "height": 50.4
+      },
+      "_trs": {
+        "__type__": "TypedArray",
+        "ctor": "Float32Array",
+        "array": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "__type__": "cc.Label",
+      "node": {
+        "__id__": 4
+      },
+      "_materials": [
+        {
+          "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+        }
+      ],
+      "_useOriginalSize": false,
+      "_string": "提示内容：王俊炜进入了房间",
+      "_N$string": "提示内容：王俊炜进入了房间",
+      "_fontSize": 30,
+      "_N$horizontalAlign": 1,
+      "_N$verticalAlign": 1
+    }
+  ]
+]

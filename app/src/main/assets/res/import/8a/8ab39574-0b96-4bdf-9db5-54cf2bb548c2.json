@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "card_cike_B",
+    "texture": "4fQttm+71D9ruujvsb8U4i",
+    "rect": [
+      1,
+      0,
+      396,
+      474
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      397,
+      474
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
